@@ -26,6 +26,7 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge Git
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log and history
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore
+- [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore) - Generate .gitignore files
 
 ### 📝 Markdown & Documentation
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Shortcuts, TOC, preview
@@ -72,7 +73,6 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 - [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) - Jinja template support
 - [Bash Beautify](https://marketplace.visualstudio.com/items?itemName=shakram02.bash-beautify) - Shell script formatting
 - [Preview](https://marketplace.visualstudio.com/items?itemName=searking.preview-vscode) - File preview
-- [Gato Montes](https://marketplace.visualstudio.com/items?itemName=gatomontesroseiii.gatomontes) - Code utilities
 
 ## 📦 Installation
 
