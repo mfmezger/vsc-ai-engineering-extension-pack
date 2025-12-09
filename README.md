@@ -21,6 +21,7 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 - [Jupyter Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) - Rich output rendering
 - [Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags) - Cell tagging
 - [Jupyter Slideshow](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow) - Slideshow support
+- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Interactive data cleaning with auto-generated Pandas code
 
 ### 🔧 Git & Version Control
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge Git
