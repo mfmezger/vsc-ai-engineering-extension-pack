@@ -2,7 +2,7 @@
   "name": "python-ai-engineering",
   "displayName": "Python AI Engineering Extension Pack",
   "description": "A curated collection of VS Code extensions for AI Engineering and Python development, including tools for code quality, Git, Markdown, and more.",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "mfmezger",
   "license": "MIT",
   "repository": {
