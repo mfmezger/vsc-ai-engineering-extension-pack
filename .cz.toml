@@ -1,0 +1,5 @@
+[tool.commitizen]
+name = "cz_conventional_commits"
+version_provider = "npm"
+update_changelog_on_bump = true
+tag_format = "v$version"
