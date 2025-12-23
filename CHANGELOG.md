@@ -4,6 +4,12 @@ All notable changes to the "python-ai-engineering" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.1.1 (2025-12-23)
+
+### Fix
+
+- **Duplicates**: Removing extensions that are installed via other extensions or packs
+
 ## v0.1.0 (2025-12-23)
 
 ### Feat
