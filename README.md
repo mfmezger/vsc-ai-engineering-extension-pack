@@ -8,14 +8,17 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 ## ✨ Included Extensions
 
 ### 🐍 Python Development
+
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - IntelliSense, linting, debugging
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Fast, feature-rich language support
 - [Python Environments](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) - Environment management
 - [Debugpy](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) - Python debugging
 - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) - Fast Python linter and formatter
+- [ty](https://marketplace.visualstudio.com/items?itemName=astral-sh.ty) - Extremely fast Python type checker from Astral
 - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - Generate Python docstrings
 
 ### 📓 Jupyter Notebooks
+
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Notebook support
 - [Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) - Keybindings
 - [Jupyter Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) - Rich output rendering
@@ -24,12 +27,14 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 - [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Interactive data cleaning with auto-generated Pandas code
 
 ### 🔧 Git & Version Control
+
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge Git
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log and history
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore) - Generate .gitignore files
 
 ### 📝 Markdown & Documentation
+
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Shortcuts, TOC, preview
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint) - Markdown linting
 - [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) - GitHub-style preview
@@ -38,6 +43,7 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 - [Markdown Preview GitHub Styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - GitHub styling
 
 ### 📊 Data Files (JSON, CSV, YAML, TOML)
+
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - CSV highlighting
 - [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) - Edit CSVs as tables
 - [CSV to Table](https://marketplace.visualstudio.com/items?itemName=phplasma.csv-to-table) - Convert CSV to table
@@ -52,12 +58,14 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 - [quicktype](https://marketplace.visualstudio.com/items?itemName=doggy8088.quicktype-refresh) - Generate types from JSON
 
 ### 🌐 Remote Development
+
 - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Dev containers
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - SSH development
 - [Remote - SSH: Editing](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) - SSH file editing
 - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) - Remote explorer
 
 ### 🛠️ Code Quality & Productivity
+
 - [SonarLint](https://marketplace.visualstudio.com/items?itemName=sonarsource.sonarlint-vscode) - Code quality
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Colored comments
 - [TODO Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree) - TODO highlighting
@@ -66,6 +74,7 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 - [CodeMap](https://marketplace.visualstudio.com/items?itemName=oleg-shilo.codemap) - Code navigation
 
 ### 📦 Other Tools
+
 - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - View PDFs in VS Code
 - [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) - View SQLite databases
 - [OpenAPI Viewer](https://marketplace.visualstudio.com/items?itemName=andrewbutson.vscode-openapi-viewer) - OpenAPI/Swagger viewer
