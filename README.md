@@ -9,19 +9,14 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 
 ### 🐍 Python Development
 
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - IntelliSense, linting, debugging
-- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Fast, feature-rich language support
-- [Python Environments](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) - Environment management
-- [Debugpy](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) - Python debugging
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - IntelliSense, linting, debugging (includes Pylance, Debugpy, and Python Environments)
 - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) - Fast Python linter and formatter
 - [ty](https://marketplace.visualstudio.com/items?itemName=astral-sh.ty) - Extremely fast Python type checker from Astral
 - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - Generate Python docstrings
 
 ### 📓 Jupyter Notebooks
 
-- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Notebook support
-- [Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) - Keybindings
-- [Jupyter Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) - Rich output rendering
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Notebook support (includes Keymap and Renderers)
 - [Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags) - Cell tagging
 - [Jupyter Slideshow](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow) - Slideshow support
 - [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Interactive data cleaning with auto-generated Pandas code
@@ -37,10 +32,7 @@ A curated collection of VS Code extensions for AI Engineering and Python develop
 
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Shortcuts, TOC, preview
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint) - Markdown linting
-- [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) - GitHub-style preview
-- [Markdown Checkbox](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) - Checkbox support
-- [Markdown Mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) - Mermaid diagram support
-- [Markdown Preview GitHub Styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - GitHub styling
+- [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) - GitHub-style preview (includes Checkbox, Mermaid, GitHub Styles)
 
 ### 📊 Data Files (JSON, CSV, YAML, TOML)
 
