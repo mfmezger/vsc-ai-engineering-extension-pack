@@ -4,6 +4,12 @@ All notable changes to the "python-ai-engineering" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## v0.3.0 (2026-01-07)
+
+### Feat
+
+- **TrailingSpaces**: Adding new extension
+
 ## v0.2.0 (2026-01-07)
 
 ### Feat
