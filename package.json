@@ -20,7 +20,7 @@
     "genai"
   ],
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Extension Packs"
@@ -68,6 +68,7 @@
     "sonarsource.sonarlint-vscode",
     "tamasfe.even-better-toml",
     "tomoki1207.pdf",
+    "usernamehw.errorlens",
     "wholroyd.jinja",
     "yzhang.markdown-all-in-one",
     "zainchen.json"
